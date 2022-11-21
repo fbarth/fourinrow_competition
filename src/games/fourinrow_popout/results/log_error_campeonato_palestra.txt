@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/Tournament.py", line 45, in <module>
+    winner = FourInRow(players[i], players[j]).game()
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/FourInRow.py", line 150, in game
+    m = self.players[k].move(k+1, board_copy)
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/PalestraPlayer.py", line 42, in move
+    return best_move["action"], best_move["column"]
+TypeError: 'NoneType' object is not subscriptable

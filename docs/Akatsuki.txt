@@ -1,0 +1,26 @@
+Algoritmo e Implementação
+Para a construção do jogador, o grupo implementou um algoritmo de Min-Max com poda alpha-beta. O algoritmo em si é responsável por encontrar a melhor jogada entre todas as possíveis, levando em consideração todos os possíveis próximos estados do jogo até n jogadas de profundidade.
+
+Para torná-lo mais otimizado, conseguindo avançar até profundidades maiores em menos tempo, o grupo implementou a poda alpha-beta. Ela é responsável por diminuir a quantidade de nodes avaliados na árvore de busca do Min-Max. É uma técnica muito utilizada para agentes de jogos de dois jogadores, que para de analisar um movimento caso seja provado que um outro movimento melhor já tenha sido encontrado, indicando que o algoritmo não precisa continuar naquele setor da árvore de busca. É importante notar que algoritmos Min-Max com e sem poda alpha-beta retornam sempre os mesmos resultados, sendo "podados" apenas ramos que não influenciariam a decisão final.
+
+Base de Conhecimento
+O jogador possui valores pré-estabelecidos para combinações de peças, como sequências de duas, três ou quatro peças da mesma cor. Nesse projeto, o valores são os mesmos independente da orientação da sequência, podendo ser horizontal, vertical ou diagonal.
+
+Além disso, o jogador também avalia peças isoladas, qualificadas como não tendo nenhuma peça da mesma cor nos oito quadrados adjacentes (se existirem). Essas peças são avaliadas por sua proximidade ao centro do tabuleiro, com a coluna central valendo o máximo de pontos para uma peça isolada. A linha da peça não é levada em consideração nesse caso.
+
+Expectativa de desempenho
+O grupo acredita que o jogador “Akatsuki” tem a capacidade de ganhar de alguns dos jogadores oponentes desenvolvidos pelo resto da turma, mas dificilmente ficará em primeiro, pois é evidente, ao observar alguns jogos contra o jogador aleatório, que ele nem sempre segue o caminho mais rápido para a vitória.
+
+Para testar a capacidade do jogador, foram realizadas 100 partidas de teste contra o jogador aleatório, das quais o “Akatsuki” ganhou 95 delas. Apesar de inicialmente parecer um resultado muito bom, quando levamos em consideração a natureza e estratégia do jogo, um jogador superior conseguiria facilmente ganhar 99 ou todas as 100 partidas contra o aleatório. Foi nesse resultado que baseamos nossa expectativa de desempenho.
+
+Diferenças entre Connect4 e Connect4 PopOut
+Considerando como o jogador do grupo foi implementado, realizar uma alteração de Connect4 PopOut para Connect4 seria simples. Os cálculos de pontuação independendem dos possíveis movimentos, levando em consideração apenas o estado do tabuleiro. Assim, a única alteração necessária seria na função dos sucessores, pois remover uma peça não seria mais uma ação válida.
+
+Referências
+https://pdfs.semanticscholar.org/f323/3fa36a5026b42c7f331a5c98e66aad9d3e8c.pdf
+
+http://fbarth.net.br/Connect4-Python/
+
+https://en.wikipedia.org/wiki/Minimax
+
+https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning

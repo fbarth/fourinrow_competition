@@ -1,0 +1,14 @@
+Que algoritmo deve ser utilizado para desenvolver um agente jogador de Connect4 PopOut vencedor? Deve-se utilizar uma implementação de Min-Max com poda alpha-beta? Se sim, qual a profundidade que deverá ser utilizada para evitar processamentos superiores a 5 segundos por jogada? Qual a função de utilidade que deve ser utilizada?
+O algoritmo que deve ser utilizado para desenvolver um agente jogador de Connect4 PopOut é o Min-max, que funciona maximizando as jogadas do algoritmo e minimizando as do oponente. Sim, ele deve utilizar uma poda alpha-beta com profundidade de 3 camadas para evitar processamentos acima de 10 segundos. A função de utilidade utilizada avalia somas ponderadas (apresentadas abaixo) que representam uma "pontuação" para um dos jogadores. sum_op_points = 100000op_qtd_4 + 10000op_qtd_3 + op_qtd_2 sum_my_points = 100000my_qtd_4 + 100my_qtd_3 + my_qtd_2
+
+O seu jogador faz uso de alguma base de conhecimento? Se sim, como ela é utilizada durante o processo de tomada de decisão?
+O jogador faz uso de uma base de conhecimento baseada na quantidade de peças seguidas dos jogadores, dando pesos diferentes para sequencias de 2, 3 e 4 peças (equações acima).
+
+Qual a sua expectativa com relação ao desempenho do seu agente? Você acredita que ele irá desempenhar bem na competição? Por quê? Você executou testes contra outros jogadores? Qual foram os resultados?
+Acreditamos que ele irá desempenhar razoávelmente na competição, uma vez que nos testes ele ganhou do adversário aleatório todas as vezes e teve disputas acirradas consigo mesmo, respeitando todas as regras do jogo.
+
+Quais foram as principais referências utilizadas para a implementação do seu jogador?
+Arquivos de referências de projetos passados de Connect4 simples: https://github.com/KeithGalli/Connect4-Python/blob/master/connect4_with_ai.py
+
+Existem diferenças significativas entre um jogador de Connect4 e um jogador de Connect4 PopOut em termos de árvore de busca e função de avaliação? É possível utilizar o jogador implementado para o Connect4 PopOut em competições de Connect4 sem muitas modificações?
+Sim, existem diferenças significativas entre um jogador de Connect4 e um jogador de Connect4 PopOut. Isso se deve pois o jogador de Connect 4 apenas tem as 7 possibilidades de jogada (7 colunas), já o jogador Connect4 PopOut não só tem essas mesmas possibilidades, como também pode retirar seus discos presentes na ultima linha, totalizando uma maior número de jogadas possíveis e aumentando a árvore de busca. Pode-se dizer que não seria um trabalho tão trivial "desativar" a função popout de um jogador Connect4 PopOut, visto que, como discutido acima, esta está enraizada na sua forma de jogar e na sua árvore de busca. Contudo, é certamente possível.

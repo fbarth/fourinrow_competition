@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/Tournament.py", line 30, in <module>
+    winner = FourInRow(players[i], players[j]).game()
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/FourInRow.py", line 152, in game
+    self.movement(k+1, m)
+  File "/home/fbarth/workspaces/fourinrow_competition/src/games/fourinrow_popout/FourInRow.py", line 50, in movement
+    raise Exception('Player '+self.players[player-1].name()+', you can not pop out from an empty column nor pop out a piece that is not yours.')
+Exception: Player Mecat, you can not pop out from an empty column nor pop out a piece that is not yours.

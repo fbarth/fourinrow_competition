@@ -1,0 +1,7162 @@
+Tournament starting at 2022-11-19 17:48:28.633883
+Random vs AIPlayer
+Jogador Random jogou (None, 1)
+Duration (seconds): 2.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.314825
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ■ |   |   |   | 
+
+
+Jogador Random jogou (None, 1)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+  | ● |   | ■ |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.285205
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.319486
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ● | ● |   |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.000527
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ● | ● |   |   |   | 
+  | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: AIPlayer is the winner!
+Random vs 4_e_par
+Jogador Random jogou (None, 6)
+Duration (seconds): 5e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.405692
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   | ● | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ |   |   | ● | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.392534
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ | ■ |   | ● | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.8e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   | ● | ■ | ■ |   | ● | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.452295
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ● |   |   | 
+  |   | ● | ■ | ■ |   | ● | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ● |   |   | 
+  |   | ● | ■ | ■ | ● | ● | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.375804
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ● | ■ | ■ | ● | ● | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ● | ■ | ■ | ● | ● | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.572621
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ● | ■ | ■ | ● | ● | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ● | ■ | ■ | ● | ● | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.582544
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  | ■ | ● | ■ | ■ | ● | ● | 
+
+
+Jogador Random jogou ('p', 2)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  | ■ | ■ | ■ | ■ | ● | ● | 
+
+
+Player number 2: 4_e_par is the winner!
+Random vs Akatsuki
+Jogador Random jogou (None, 0)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 3)
+Duration (seconds): 4e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 5e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.304506
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+● | ■ |   | ■ |   |   |   | 
+
+
+Jogador Random jogou (None, 1)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+● | ■ |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.202935
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+● | ■ | ■ | ■ |   |   |   | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.11497
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ■ | ● | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.116832
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ■ | ● | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● | ● | ■ | ● | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.118087
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● | ● | ■ | ● | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Player number 2: Akatsuki is the winner!
+Random vs Carlos Monteiro - baladesejo
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000508
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   | ● | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● | ■ |   |   |   |   | ● | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.00044
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● | ■ |   | ■ |   |   | ● | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   | ■ |   |   | ● | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000034
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ | ■ | ■ |   |   | ● | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ | ■ | ■ |   |   | ● | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.00004
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ | ■ | ■ | ■ |   | ● | 
+
+
+Player number 2: Carlos Monteiro - baladesejo is the winner!
+Random vs Bergsons4
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.8e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.168053
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.342677
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ● | ● | ■ |   | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.355947
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.110307
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Random jogou (None, 1)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.287584
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ | ● | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.153122
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ | ● | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 9e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   | ● | 
+  | ■ | ● | ● | ● | ■ | ● | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.059846
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   | ● | 
+  | ■ | ● | ● | ● | ■ | ● | 
+
+
+Player number 2: Bergsons4 is the winner!
+Random vs Celta Preto
+Jogador Random jogou (None, 6)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+
+
+Jogador Celta Preto jogou (None, 1)
+Duration (seconds): 4.536444
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   | ● | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   | ● |   | ● | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 3.921191
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 5.399035
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   | ● | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Celta Preto jogou (None, 6)
+Duration (seconds): 8.961336
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   | ■ | 
+  |   |   |   | ● |   | ● | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   | ■ | 
+  |   |   |   | ● |   | ● | 
+  | ■ | ● |   | ● | ■ | ● | 
+
+
+Jogador Celta Preto jogou (None, 1)
+Duration (seconds): 6.813852
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   | ■ | 
+  | ■ |   |   | ● |   | ● | 
+  | ■ | ● |   | ● | ■ | ● | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ■ |   | ■ | 
+  | ■ |   |   | ● |   | ● | 
+  | ■ | ● |   | ● | ■ | ● | 
+
+
+Jogador Celta Preto jogou (None, 1)
+Duration (seconds): 4.137382
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ |   |   | ■ |   | ■ | 
+  | ■ |   |   | ● |   | ● | 
+  | ■ | ● |   | ● | ■ | ● | 
+
+
+Jogador Random jogou ('p', 2)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ |   |   | ■ |   | ■ | 
+  | ■ |   |   | ● |   | ● | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Jogador Celta Preto jogou (None, 1)
+Duration (seconds): 0.478613
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   | ● |   |   | 
+  | ■ |   |   | ■ |   | ■ | 
+  | ■ |   |   | ● |   | ● | 
+  | ■ |   |   | ● | ■ | ● | 
+
+
+Player number 2: Celta Preto is the winner!
+Random vs Grupo_X
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.017664
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   | ● |   | 
+
+
+Jogador Random jogou (None, 1)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+  | ■ |   |   |   | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.022215
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+  | ■ | ■ |   |   | ● |   | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ■ | ■ |   |   | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.030859
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ■ | ■ |   |   | ● |   | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+● | ■ | ■ |   |   | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.029113
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+● | ■ | ■ |   | ■ | ● |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 6e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.046404
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   | ■ |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Random jogou ('p', 3)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   | ■ |   |   | 
+● | ■ | ■ |   | ■ | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.051427
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ■ |   |   | 
+  | ● | ● |   | ■ |   |   | 
+● | ■ | ■ |   | ■ | ● |   | 
+
+
+Jogador Random jogou ('p', 0)
+Duration (seconds): 7e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ■ |   |   | 
+  | ● | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.055649
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ■ |   | ■ |   |   | 
+  | ● | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ | ● |   | 
+
+
+Player number 2: Grupo_X is the winner!
+Random vs Aranhatron 8000
+Jogador Random jogou (None, 5)
+Duration (seconds): 8e-06
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 3.233527
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   | ● |   | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   | ● | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 4.708058
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   | ● | ● | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   | ■ | ■ |   | ● | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 5.346719
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  | ■ | ■ | ■ |   | ● | ● | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   | ● |   | 
+  | ■ | ■ | ■ |   | ● | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 0)
+Duration (seconds): 4.748236
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   | ● |   | 
+■ | ■ | ■ | ■ |   | ● | ● | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+Random vs Marco
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 1.044225
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ | ● |   |   | 
+
+
+Jogador Marco jogou (None, 4)
+Duration (seconds): 1.525242
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+● |   |   | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ■ |   |   | 
+● |   |   | ■ | ● |   |   | 
+
+
+Jogador Marco jogou (None, 1)
+Duration (seconds): 0.633688
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ■ |   |   | 
+● | ■ |   | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ■ |   |   | 
+● | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.478758
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+■ |   |   |   | ■ |   |   | 
+● | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou ('p', 0)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.357099
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+■ |   |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   | ● |   |   | 
+■ |   |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.41486
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   | ● |   |   | 
+■ |   |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 1)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   | ● |   |   | 
+■ | ● |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.332727
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   | ● |   |   | 
+■ | ● |   |   | ■ |   |   | 
+■ | ■ |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou ('p', 4)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ |   | ■ | ■ | ● |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.311516
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ |   | ■ | ■ | ● |   | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.1e-05
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   | ● |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ |   | ■ | ■ | ● |   | 
+
+
+Jogador Marco jogou (None, 1)
+Duration (seconds): 0.204842
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ■ |   |   | ● |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ |   | ■ | ■ | ● |   | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.7e-05
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   | ● |   |   | 
+● | ■ |   |   | ● |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ |   | ■ | ■ | ● |   | 
+
+
+Jogador Marco jogou (None, 2)
+Duration (seconds): 0.180522
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   | ● |   |   | 
+● | ■ |   |   | ● |   |   | 
+■ | ● |   |   | ● |   |   | 
+■ | ■ | ■ | ■ | ■ | ● |   | 
+
+
+Player number 2: Marco is the winner!
+Random vs Robotica
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.5e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.31502
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.6e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.374674
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.6e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   | ● |   | 
+  |   |   | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.394258
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 0)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   |   | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.300974
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   |   | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.281204
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.292913
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+● |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Random jogou ('p', 0)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.424059
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● |   | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.413959
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   |   | ■ | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● | ● | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.439201
+  |   |   |   |   | ■ |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ■ | ■ | ● |   | 
+  |   | ● | ■ | ● | ● | ● | 
+
+
+Player number 2: Robotica is the winner!
+Random vs Trio_De_Ferro
+Jogador Random jogou (None, 2)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 6)
+Duration (seconds): 2.31567
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   | ■ | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+  |   | ● |   |   |   | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 5.086243
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+  |   | ● |   |   | ■ | ■ | 
+
+
+Jogador Random jogou (None, 4)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+  |   | ● |   | ● | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 2.877942
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ | ● | 
+  |   | ● |   | ● | ■ | ■ | 
+
+
+Jogador Random jogou (None, 6)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   | ● | 
+  |   |   |   |   | ■ | ● | 
+  |   | ● |   | ● | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 3.470893
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   |   | ■ | ● | 
+  |   | ● |   | ● | ■ | ■ | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   |   | ■ | ● | 
+  |   | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 1)
+Duration (seconds): 3.459315
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   |   | ■ | ● | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Random jogou (None, 5)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   |   | ■ | ● | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.32763
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   | ■ | ■ | ● | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Random jogou ('p', 4)
+Duration (seconds): 1.3e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   |   | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 4.348102
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   |   | ■ | ● | 
+  |   |   |   | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Random jogou (None, 2)
+Duration (seconds): 1.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   |   | ■ | ● | 
+  |   | ● |   | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.481985
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   | ■ | ■ | ● | 
+  |   | ● |   | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   |   | ■ | ■ | ● | 
+  |   | ● | ● | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 4.654159
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   |   | ■ | ■ | ■ | ● | 
+  |   | ● | ● | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Random jogou (None, 3)
+Duration (seconds): 1.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   | ● |   | 
+  |   |   | ■ | ■ | ■ | ● | 
+  |   | ● | ● | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.100768
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ | ● |   | 
+  |   |   | ■ | ■ | ■ | ● | 
+  |   | ● | ● | ■ | ■ | ● | 
+  | ■ | ● | ● | ■ | ■ | ■ | 
+
+
+Player number 2: Trio_De_Ferro is the winner!
+AIPlayer vs 4_e_par
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1.8e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.315963
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.469564
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.245226
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.512164
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.284008
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.411195
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.274954
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.000596
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+● | ■ | ■ | ● |   |   |   | 
+
+
+Player number 1: AIPlayer is the winner!
+AIPlayer vs Akatsuki
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.466788
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.378099
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   | ● |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.324991
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 6)
+Duration (seconds): 0.334061
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   | ● | ● | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.203039
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.0006
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   | ● | ● | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.122742
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ■ |   | ● |   | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.417744
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ■ |   | ● |   | ● | ● | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.124346
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ■ |   |   |   |   |   | 
+■ | ■ |   | ● |   | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.306616
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ■ |   |   |   |   |   | 
+■ | ■ |   | ● | ● | ● | ● | 
+
+
+Player number 1: AIPlayer is the winner!
+AIPlayer vs Carlos Monteiro - baladesejo
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 2.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.002184
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.326733
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000419
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.399387
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000376
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.373683
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000047
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.508801
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000444
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.425501
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000225
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ■ | ● | ● |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.358242
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ■ | ● | ● |   |   | 
+  | ● | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000439
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+  | ● | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000661
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   | ■ |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+  | ● | ● | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000046
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   | ■ |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+  | ● | ● | ■ | ■ | ■ |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.365517
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ● |   | ■ |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+  | ● | ● | ■ | ■ | ■ |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou ('p', 2)
+Duration (seconds): 8.000034
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   | ■ |   |   | 
+  | ■ | ● | ● | ● |   |   | 
+  | ● | ■ | ■ | ■ | ■ |   | 
+  | ● | ● | ● | ■ | ● |   | 
+
+
+Player number 2: Carlos Monteiro - baladesejo is the winner!
+AIPlayer vs Bergsons4
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 3.2e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.097007
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.321485
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.186024
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.400471
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.378614
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.314809
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 0)
+Duration (seconds): 0.533902
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000587
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.227427
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.000574
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.272891
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000583
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  | ● | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 0)
+Duration (seconds): 0.565111
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000662
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.19237
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+■ | ● | ● | ● | ■ | ● |   | 
+
+
+Player number 2: Bergsons4 is the winner!
+AIPlayer vs Celta Preto
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 2.4e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 2.38651
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.464645
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 1.717194
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.41968
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 1.827811
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.433275
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+● |   | ■ | ● |   | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 4.009854
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.411483
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 5.578496
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   | ■ |   | 
+  |   | ■ | ■ |   | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.457101
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 7.688433
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.000626
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   | ● |   | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 3.782144
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ● |   | 
+  |   | ● | ■ | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.4097
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   | ● |   | 
+  |   | ● | ■ | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 1.418739
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   | ● |   | 
+  |   | ● | ■ | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.298247
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   | ● |   | 
+  |   | ● | ■ | ■ | ■ |   | 
+  |   | ■ | ■ | ● | ● |   | 
+● | ● | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou ('p', 2)
+Duration (seconds): 0.351156
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   | ● |   | 
+  |   | ■ | ■ | ■ | ■ |   | 
+  |   | ● | ■ | ● | ● |   | 
+● | ● | ■ | ● | ■ | ● |   | 
+
+
+Player number 2: Celta Preto is the winner!
+AIPlayer vs Grupo_X
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1.5e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.013861
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.442473
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.021236
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● |   | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 6)
+Duration (seconds): 0.498246
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● |   | ● | ● | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.02497
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ■ | ■ | ● |   | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.469572
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ■ | ■ | ● |   | ● | ● | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.029801
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+■ | ■ | ■ | ● |   | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.499135
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+■ | ■ | ■ | ● | ● | ● | ● | 
+
+
+Player number 1: AIPlayer is the winner!
+AIPlayer vs Aranhatron 8000
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 2.7e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.182602
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.44959
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 4.523952
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.37473
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● | ■ | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.57057
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.363088
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ■ | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 4.726301
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000599
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ■ | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 6.564103
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000624
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  | ■ | ● | ● | ■ | ● |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.161224
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  | ■ | ● | ● | ■ | ● |   | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+AIPlayer vs Marco
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1.6e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 1.000525
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.321124
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   | ● |   | 
+
+
+Jogador Marco jogou (None, 4)
+Duration (seconds): 0.892834
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.392661
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+
+
+Jogador Marco jogou (None, 1)
+Duration (seconds): 0.557967
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ■ |   |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.194836
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ■ |   |   |   | 
+  | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador Marco jogou (None, 2)
+Duration (seconds): 0.28922
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ■ |   |   |   | 
+  | ● | ● | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.000574
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ■ |   |   |   | 
+● | ● | ● | ● | ■ | ● |   | 
+
+
+Player number 1: AIPlayer is the winner!
+AIPlayer vs Robotica
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1.1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.342374
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.461687
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.24961
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.419986
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.227532
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.432069
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+● |   | ■ | ● |   | ● |   | 
+
+
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.267521
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   | ■ |   | 
+● |   | ■ | ● |   | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 6)
+Duration (seconds): 0.459256
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   | ■ |   | 
+● |   | ■ | ● |   | ● | ● | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.314198
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ |   | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.000582
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.258822
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.367748
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● |   | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.349308
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● | ● |   | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.000601
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.275344
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 4)
+Duration (seconds): 0.000608
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.186164
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ■ |   | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.000613
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ● |   | 
+  |   | ■ |   | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● |   | ■ | ● | ■ | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 1)
+Duration (seconds): 0.161243
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ● |   | 
+  |   | ■ |   | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ■ | ● | ■ |   | 
+● | ■ | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000637
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ● |   | 
+  |   | ■ |   | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  | ● | ■ | ■ | ● | ■ |   | 
+● | ■ | ■ | ● | ■ | ● | ● | 
+
+
+emergencia
+Jogador Robotica jogou (None, 1)
+Duration (seconds): 0.32742
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ● |   | 
+  |   | ■ |   | ● | ■ |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+  | ● | ■ | ■ | ● | ■ |   | 
+● | ■ | ■ | ● | ■ | ● | ● | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.000638
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ● |   | 
+  |   | ■ | ● | ● | ■ |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+  | ● | ■ | ■ | ● | ■ |   | 
+● | ■ | ■ | ● | ■ | ● | ● | 
+
+
+Player number 1: AIPlayer is the winner!
+AIPlayer vs Trio_De_Ferro
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 1e-05
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 2.470953
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.460721
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 2.918703
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+● |   | ■ | ● |   |   |   | 
+
+
+Jogador AIPlayer jogou (None, 5)
+Duration (seconds): 0.420316
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+● |   | ■ | ● |   | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.520261
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.409119
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 1)
+Duration (seconds): 2.487981
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 0)
+Duration (seconds): 0.208605
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 0)
+Duration (seconds): 2.971513
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000597
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ |   |   |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 3.396409
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ |   | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000592
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 2.819348
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 1)
+Duration (seconds): 0.000604
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 2.493841
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000624
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 2.255519
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ■ |   |   |   | 
+● | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 2)
+Duration (seconds): 0.000636
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 2.609275
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Jogador AIPlayer jogou (None, 3)
+Duration (seconds): 0.000663
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ■ | ■ |   | 
+● | ■ | ■ | ● | ■ | ● |   | 
+
+
+Player number 1: AIPlayer is the winner!
+4_e_par vs Akatsuki
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.338949
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.46048
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.406656
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.464409
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.161204
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+■ |   | ● | ● |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.326533
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+■ |   | ● | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.219302
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+■ |   | ● | ● | ● |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.209218
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+■ |   | ● | ● | ● |   |   | 
+
+
+Player number 2: Akatsuki is the winner!
+4_e_par vs Carlos Monteiro - baladesejo
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.336801
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 0)
+Duration (seconds): 8.000154
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.404472
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000575
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.418824
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   | ● | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.00016
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.304941
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000092
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.462967
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 0)
+Duration (seconds): 8.000181
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+■ |   | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.205973
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+■ |   | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000215
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+■ |   | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.22551
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 0)
+Duration (seconds): 8.000041
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   | ■ | ■ |   |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.143583
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+■ |   | ■ | ■ |   |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000022
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+■ | ■ | ■ | ■ |   |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+■ | ● | ● | ● | ■ |   |   | 
+
+
+Player number 2: Carlos Monteiro - baladesejo is the winner!
+4_e_par vs Bergsons4
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.342857
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.096873
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.363052
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.287094
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.131773
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.23835
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.120087
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.548835
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 0]
+Duration (seconds): 0.192357
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+● |   | ● | ● | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.462088
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+● | ■ | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.250788
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  | ● | ● | ■ |   |   |   | 
+● | ■ | ● | ● | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.517334
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+  | ● | ● | ■ |   |   |   | 
+● | ■ | ● | ● | ■ |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.237203
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+  | ● | ● | ■ | ● |   |   | 
+● | ■ | ● | ● | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.464186
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ■ |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+  | ● | ● | ■ | ● |   |   | 
+● | ■ | ● | ● | ■ |   |   | 
+
+
+Player number 2: Bergsons4 is the winner!
+4_e_par vs Celta Preto
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.339872
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 2.382933
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.618739
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 5.260922
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.459889
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 5.520637
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.50931
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● |   | ● |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 4.344911
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.382282
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 3.768898
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 0]
+Duration (seconds): 0.38687
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+● | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 4.547895
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+● | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.514982
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ● | ■ | ● |   |   | 
+● | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 1.353682
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ● | ■ | ● |   |   | 
+● | ● | ■ | ● | ● | ■ |   | 
+
+
+Player number 2: Celta Preto is the winner!
+4_e_par vs Grupo_X
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.338856
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.013687
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.520196
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.021021
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 5]
+Duration (seconds): 0.891084
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 6)
+Duration (seconds): 0.026452
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.392017
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.03496
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.6161
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.034234
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.521026
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+  |   | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.048438
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.509226
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● |   | ● |   |   | 
+  | ■ | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.054082
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ■ | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.310653
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ■ | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.055786
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ■ | ● |   | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.324602
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ■ | ● | ● | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.051993
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ■ | ● |   | ■ |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ■ | ● | ● | ● |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Player number 2: Grupo_X is the winner!
+4_e_par vs Aranhatron 8000
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.336486
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.171185
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.525743
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 4.481245
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.378598
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 5.538427
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.617233
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 5.45461
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 5]
+Duration (seconds): 0.602732
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 6.157542
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.54929
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 5.966092
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.484051
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 5.725807
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 5]
+Duration (seconds): 0.397437
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  |   |   | ● | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 4.344389
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● | ■ |   | 
+  |   |   | ● | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+4_e_par vs Marco
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.348902
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 0.985882
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.366371
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 2)
+Duration (seconds): 0.72724
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.396045
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 1)
+Duration (seconds): 0.238183
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  | ■ | ● | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.983706
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  | ■ | ● | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.278028
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+■ | ■ | ● | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 5]
+Duration (seconds): 0.554276
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+■ | ■ | ● | ● | ● | ● |   | 
+
+
+Player number 1: 4_e_par is the winner!
+4_e_par vs Robotica
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.342779
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.349172
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.633639
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.327982
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.767659
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.293968
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 1.04807
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.318908
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 6]
+Duration (seconds): 0.879296
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   | ● | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.324613
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   | ● | 
+
+
+Jogador 4_e_par jogou [None, 5]
+Duration (seconds): 0.985295
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ● | ● | ● | ● | 
+
+
+Player number 1: 4_e_par is the winner!
+4_e_par vs Trio_De_Ferro
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 0.345405
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 2.380163
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 0.657755
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 3.831117
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 4]
+Duration (seconds): 1.454137
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.998001
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador 4_e_par jogou [None, 3]
+Duration (seconds): 1.406862
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 5.873973
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.335733
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● |   |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 5.267172
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.797464
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.509352
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 2]
+Duration (seconds): 0.826114
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 2.861441
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador 4_e_par jogou [None, 1]
+Duration (seconds): 0.885022
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  | ● | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 2.23563
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ | ■ |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  | ● | ● | ■ | ● | ■ |   | 
+  | ● | ■ | ● | ● | ■ |   | 
+
+
+Player number 2: Trio_De_Ferro is the winner!
+Akatsuki vs Carlos Monteiro - baladesejo
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.616787
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000709
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● | ■ |   |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.468105
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   |   |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000463
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.330855
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   |   | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 0)
+Duration (seconds): 8.000285
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.226809
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000055
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ |   |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.225651
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000072
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ■ |   |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.227489
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000039
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ■ |   |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Player number 2: Carlos Monteiro - baladesejo is the winner!
+Akatsuki vs Bergsons4
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.62239
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.130901
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.469601
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.300447
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.332166
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 0)
+Duration (seconds): 0.636271
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.224564
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ | ■ |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.353217
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.128088
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.121709
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: Bergsons4 is the winner!
+Akatsuki vs Celta Preto
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.6132
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 0.583671
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.473662
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 0)
+Duration (seconds): 0.572694
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.348608
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ■ |   |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 3.042074
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ■ | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.228609
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 5.327692
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.130235
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ |   |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 2.666413
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: Celta Preto is the winner!
+Akatsuki vs Grupo_X
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.616066
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 5)
+Duration (seconds): 0.020936
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.471937
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   | ■ |   | 
+
+
+Jogador Grupo_X jogou (None, 4)
+Duration (seconds): 0.034736
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.336408
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   | ■ | ■ |   | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.040763
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.224491
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   | ■ | ■ |   | 
+
+
+Jogador Grupo_X jogou (None, 3)
+Duration (seconds): 0.042596
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.131376
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.042637
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: Grupo_X is the winner!
+Akatsuki vs Aranhatron 8000
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.616119
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 3.280189
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.489906
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 3.96182
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.342433
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 0)
+Duration (seconds): 3.74012
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.231681
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ | ■ |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 5.491217
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.132768
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● |   | ■ | ■ | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 4.594255
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+Akatsuki vs Marco
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.624938
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 1.086491
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.475039
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 1.064769
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.475582
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 0.633321
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.487098
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+● |   |   | ■ |   |   |   | 
+
+
+Player number 1: Akatsuki is the winner!
+Akatsuki vs Robotica
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.615649
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.236152
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.47654
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.275938
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.330692
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   | ■ |   |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 0)
+Duration (seconds): 0.236796
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   | ■ |   | ■ |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.22463
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ■ |   | ■ |   |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.332402
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● | ■ |   | ■ | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.12681
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ |   | ■ | ■ |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.289913
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+● | ● | ■ | ■ | ■ | ■ |   | 
+
+
+Player number 2: Robotica is the winner!
+Akatsuki vs Trio_De_Ferro
+Jogador Akatsuki jogou (None, 0)
+Duration (seconds): 0.613502
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 0)
+Duration (seconds): 3.161425
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.48099
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 0)
+Duration (seconds): 4.77706
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.486362
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 6.464983
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 1)
+Duration (seconds): 0.341414
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 1)
+Duration (seconds): 2.717555
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● |   |   |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.23185
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● | ● |   |   | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 2.685135
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.13288
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 2.435965
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● |   |   |   |   |   | 
+■ | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 2)
+Duration (seconds): 0.133593
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 4.259767
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ |   | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 4)
+Duration (seconds): 0.068626
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ |   |   |   | 
+● | ● | ● | ■ | ● | ■ |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 3.407511
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+● | ● | ● | ■ | ● | ■ |   | 
+
+
+Jogador Akatsuki jogou (None, 6)
+Duration (seconds): 0.022505
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Trio_De_Ferro jogou (None, 0)
+Duration (seconds): 2.545112
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ | ■ |   |   | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Akatsuki jogou (None, 6)
+Duration (seconds): 0.022219
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ | ■ |   | ● | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 2.99596
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+■ | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   |   | 
+■ | ● | ● | ■ | ■ |   | ● | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Akatsuki jogou (None, 6)
+Duration (seconds): 0.023127
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+■ | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   | ● | 
+■ | ● | ● | ■ | ■ |   | ● | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Trio_De_Ferro jogou (None, 5)
+Duration (seconds): 3.505155
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+■ | ■ | ■ |   |   |   |   | 
+■ | ● | ● |   |   |   | ● | 
+■ | ● | ● | ■ | ■ | ■ | ● | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Jogador Akatsuki jogou (None, 6)
+Duration (seconds): 0.022257
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+■ | ■ | ■ |   |   |   | ● | 
+■ | ● | ● |   |   |   | ● | 
+■ | ● | ● | ■ | ■ | ■ | ● | 
+● | ● | ● | ■ | ● | ■ | ● | 
+
+
+Player number 1: Akatsuki is the winner!
+Carlos Monteiro - baladesejo vs Bergsons4
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000587
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.16011
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000344
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.337703
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000581
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.3532
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000085
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.107525
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000318
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.284274
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000197
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.339493
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ● | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou ('p', 2)
+Duration (seconds): 8.0002
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.518987
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000188
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.340219
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000027
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   | ● |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.390115
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+  | ● | ■ | ● | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou ('p', 3)
+Duration (seconds): 8.000077
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ● | ■ |   | ■ |   |   | 
+  | ● | ■ | ■ | ■ |   |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.15594
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ● |   | ● |   |   | 
+  | ● | ■ |   | ■ |   |   | 
+  | ● | ■ | ■ | ■ | ■ |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Player number 2: Bergsons4 is the winner!
+Carlos Monteiro - baladesejo vs Celta Preto
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000441
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● |   |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 3.259776
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000481
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 2.50944
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000304
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 4.557422
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000052
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 4.412817
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000063
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 5.350217
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000177
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 4.491513
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000159
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 4.809118
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000028
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 3.576105
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou ('p', 4)
+Duration (seconds): 8.000203
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 2.504704
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000043
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 1.695203
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ■ | ■ |   |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000032
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   | ■ | ■ | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 1.107523
+  |   |   | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+  |   | ■ | ■ | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou ('p', 3)
+Duration (seconds): 8.000037
+  |   |   |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+  |   | ■ | ■ | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 0.323421
+  |   | ■ |   |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+  |   | ■ | ■ | ■ | ● |   | 
+  |   | ■ | ■ | ● | ● |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ■ | ● | ■ | ■ |   | 
+
+
+Player number 2: Celta Preto is the winner!
+Carlos Monteiro - baladesejo vs Grupo_X
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.00025
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.014211
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000026
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.021033
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000198
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● | ● |   | 
+
+
+Jogador Grupo_X jogou (None, 6)
+Duration (seconds): 0.027243
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000508
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.031896
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.00008
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 3)
+Duration (seconds): 0.033827
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000266
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● |   | ● |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.035591
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● |   | ● |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000126
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● | ● | ● |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.038728
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● | ● | ● |   | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 6)
+Duration (seconds): 8.000025
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● | ● | ● | ● | 
+■ | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Player number 1: Carlos Monteiro - baladesejo is the winner!
+Carlos Monteiro - baladesejo vs Aranhatron 8000
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000107
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.16964
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.001137
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 4.618162
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000184
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.519047
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000561
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 4.681664
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.00024
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.308985
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000762
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ● | ■ |   |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 5.233423
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● |   |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000293
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 5.031262
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   |   | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000138
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 4.951202
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   |   | ● | ■ | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.00011
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 6)
+Duration (seconds): 4.883526
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   |   | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ | ■ | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000038
+  |   |   |   |   |   |   | 
+  |   |   |   |   | ■ |   | 
+  |   | ● | ■ | ● | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  | ■ | ■ | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou ('p', 5)
+Duration (seconds): 4.405749
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ● | ● | ■ | ● |   | 
+  |   | ● | ● | ■ | ■ |   | 
+  | ■ | ■ | ● | ● | ● | ■ | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+Carlos Monteiro - baladesejo vs Marco
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.00013
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 0.988159
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000094
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 2)
+Duration (seconds): 0.808584
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 5)
+Duration (seconds): 8.000176
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● | ● | ● |   | 
+
+
+Jogador Marco jogou (None, 1)
+Duration (seconds): 0.348328
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ | ■ | ● | ● | ● |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 6)
+Duration (seconds): 8.000029
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ | ■ | ● | ● | ● | ● | 
+
+
+Player number 1: Carlos Monteiro - baladesejo is the winner!
+Carlos Monteiro - baladesejo vs Robotica
+Jogador Carlos Monteiro - baladesejo jogou (None, 0)
+Duration (seconds): 8.000577
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   |   |   |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.231553
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ |   |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.001352
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   | ■ |   | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 2)
+Duration (seconds): 0.240701
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ |   | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000292
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ |   | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.246024
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+● |   | ■ | ■ | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000415
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ |   | ● |   |   | 
+● |   | ■ | ■ | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 3)
+Duration (seconds): 0.268135
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● |   | ■ | ■ | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000278
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● |   | ■ | ■ | ● |   |   | 
+
+
+Jogador Robotica jogou (None, 1)
+Duration (seconds): 0.236873
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000434
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● |   |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 5)
+Duration (seconds): 0.204297
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000108
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  |   | ● | ● | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 4)
+Duration (seconds): 0.219891
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  |   | ● | ● | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.00022
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  |   | ● | ● | ● |   |   | 
+  |   | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+emergencia
+Jogador Robotica jogou (None, 1)
+Duration (seconds): 0.178726
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  |   | ● | ● | ● |   |   | 
+  | ■ | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000046
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ● | ■ |   |   | 
+  | ● | ● | ● | ● |   |   | 
+  | ■ | ■ | ■ | ● |   |   | 
+● | ■ | ■ | ■ | ● | ■ |   | 
+
+
+Player number 1: Carlos Monteiro - baladesejo is the winner!
+Carlos Monteiro - baladesejo vs Trio_De_Ferro
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000508
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 2)
+Duration (seconds): 2.337903
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 3)
+Duration (seconds): 8.000314
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 3)
+Duration (seconds): 3.028993
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 2)
+Duration (seconds): 8.000839
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 4)
+Duration (seconds): 5.957524
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 4)
+Duration (seconds): 8.000352
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● | ● |   |   | 
+  |   | ■ | ● | ■ |   |   | 
+
+
+Jogador Trio_De_Ferro jogou (None, 1)
+Duration (seconds): 4.188726
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● | ● |   |   | 
+  | ■ | ■ | ● | ■ |   |   | 
+
+
+Jogador Carlos Monteiro - baladesejo jogou (None, 1)
+Duration (seconds): 8.000033
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● | ● | ● | ● |   |   | 
+  | ■ | ■ | ● | ■ |   |   | 
+
+
+Player number 1: Carlos Monteiro - baladesejo is the winner!
+Bergsons4 vs Celta Preto
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.123604
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 2.383299
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.155124
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 3.243605
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.239451
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 2.36878
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.174589
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Celta Preto jogou (None, 2)
+Duration (seconds): 2.902005
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.160025
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 3)
+Duration (seconds): 5.086529
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.04599
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● |   | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 2.779241
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● |   |   |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.126371
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ● |   |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 1.994713
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.116056
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ |   |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 4)
+Duration (seconds): 2.319178
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ■ | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.315204
+  |   |   | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ■ | ■ | ■ |   |   | 
+  |   | ● | ■ | ● |   |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 3.161189
+  |   |   | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ■ | ■ | ■ |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.072766
+  |   | ● | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ■ | ■ | ■ |   |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Jogador Celta Preto jogou (None, 5)
+Duration (seconds): 1.069179
+  |   | ● | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  |   | ■ | ■ | ■ | ■ |   | 
+  |   | ● | ■ | ● | ■ |   | 
+  |   | ● | ● | ● | ■ |   | 
+  |   | ■ | ● | ■ | ● |   | 
+
+
+Player number 2: Celta Preto is the winner!
+Bergsons4 vs Grupo_X
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.123388
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.014023
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.234179
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.021308
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.144781
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.02831
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.175518
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.028706
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.296736
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 3)
+Duration (seconds): 0.025823
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.56705
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.030348
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.566273
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.030201
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.92948
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 1)
+Duration (seconds): 0.034279
+  |   |   |   |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.681881
+  |   |   |   |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 2)
+Duration (seconds): 0.028805
+  |   | ■ |   |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.325003
+  | ● | ■ |   |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.010704
+  | ● | ■ |   |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+■ | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.033427
+  | ● | ■ | ● |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+  | ■ | ● | ■ |   |   |   | 
+■ | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Jogador Grupo_X jogou (None, 0)
+Duration (seconds): 0.00755
+  | ● | ■ | ● |   |   |   | 
+  | ● | ■ | ● |   |   |   | 
+■ | ■ | ● | ■ |   |   |   | 
+■ | ● | ■ | ● |   |   |   | 
+■ | ● | ● | ● |   |   |   | 
+■ | ■ | ■ | ● |   |   |   | 
+
+
+Player number 2: Grupo_X is the winner!
+Bergsons4 vs Aranhatron 8000
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.121305
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.167352
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.237794
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 3.840137
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.246208
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ■ |   | ● |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 3.880004
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ■ |   | ● |   | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.249264
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● |   |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.400678
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.26075
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.359724
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.394684
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 5.263626
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 1)
+Duration (seconds): 0.619996
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 4.814416
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ |   |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.562407
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 6)
+Duration (seconds): 4.636267
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ |   |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.915988
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  | ■ |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.723241
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ■ |   | ● | ● |   |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 5)
+Duration (seconds): 0.482854
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ |   |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 4.316591
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ |   | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.43907
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● |   | ● | ■ | ● |   | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 3.286528
+  |   |   |   |   |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.247105
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+  | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 0)
+Duration (seconds): 2.028255
+  |   |   | ● |   |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+■ | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.20258
+  |   |   | ● | ● |   |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+■ | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 1.597341
+  |   |   | ● | ● | ■ |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● |   | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+■ | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.075041
+  |   |   | ● | ● | ■ |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ |   | ● | ● | ● |   | 
+  | ● | ● | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+■ | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 0.574631
+  |   |   | ● | ● | ■ |   | 
+  |   |   | ■ | ■ | ■ |   | 
+  | ■ | ■ | ● | ● | ● |   | 
+  | ● | ● | ■ | ■ | ● |   | 
+  | ● | ■ | ● | ■ | ● |   | 
+■ | ■ | ● | ● | ● | ■ | ■ | 
+
+
+Player number 2: Aranhatron 8000 is the winner!
+Bergsons4 vs Marco
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.124539
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 3)
+Duration (seconds): 0.971495
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.09611
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   |   | ● |   |   |   | 
+
+
+Jogador Marco jogou (None, 2)
+Duration (seconds): 0.549463
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● |   |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.244688
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+  |   | ■ | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.362612
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   |   | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 2)
+Duration (seconds): 0.602398
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+  |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.330425
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 0)
+Duration (seconds): 0.589759
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.345003
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 3)
+Duration (seconds): 0.300598
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.29034
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ |   |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou (None, 4)
+Duration (seconds): 0.174036
+  |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ | ● |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Marco jogou (None, 0)
+Duration (seconds): 0.218211
+■ |   |   |   |   |   |   | 
+■ |   |   |   |   |   |   | 
+■ |   |   | ● |   |   |   | 
+● |   |   | ● |   |   |   | 
+■ |   | ● | ■ | ● |   |   | 
+■ |   | ■ | ● | ● |   |   | 
+
+
+Jogador Bergsons4 jogou ('p', 0)

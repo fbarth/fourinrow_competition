@@ -1,0 +1,231 @@
+Aranhatron 8000 vs Palestra
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 2.430595
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+
+
+Jogador Palestra jogou (None, 1)
+Duration (seconds): 0.607398
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.494179
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● |   |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Palestra jogou (None, 2)
+Duration (seconds): 0.892947
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 3.566622
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Palestra jogou (None, 2)
+Duration (seconds): 0.667079
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  |   | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 1)
+Duration (seconds): 3.484949
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+  | ■ | ● |   |   |   |   | 
+
+
+Jogador Palestra jogou (None, 4)
+Duration (seconds): 0.647376
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+  | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 0)
+Duration (seconds): 3.996132
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  |   | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Palestra jogou (None, 1)
+Duration (seconds): 0.921357
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   |   |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 4.721628
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   | ● |   |   | 
+● | ■ | ● |   | ■ |   |   | 
+
+
+Jogador Palestra jogou (None, 5)
+Duration (seconds): 1.514059
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   | ● |   |   | 
+● | ■ | ● |   | ■ | ■ |   | 
+
+
+Jogador Aranhatron 8000 jogou (None, 6)
+Duration (seconds): 5.999511
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   | ● |   |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Palestra jogou (None, 5)
+Duration (seconds): 1.813424
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   |   |   |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 7.595479
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   |   |   |   | 
+  | ● | ● |   | ● |   |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Palestra jogou (None, 4)
+Duration (seconds): 3.064197
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● |   |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 5)
+Duration (seconds): 7.367508
+  |   |   |   |   |   |   | 
+  |   |   |   |   |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Palestra jogou (None, 4)
+Duration (seconds): 1.62115
+  |   |   |   |   |   |   | 
+  |   |   |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 2)
+Duration (seconds): 7.038258
+  |   |   |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Palestra jogou (None, 4)
+Duration (seconds): 1.239081
+  |   |   |   | ■ |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● |   | ■ | ■ | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 3)
+Duration (seconds): 4.63102
+  |   |   |   | ■ |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ● | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● | ● | ■ | ■ | ● | 
+
+
+Jogador Palestra jogou ('p', 4)
+Duration (seconds): 0.001332
+  |   |   |   |   |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ■ | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● | ● | ● | ■ | ● | 
+
+
+Jogador Aranhatron 8000 jogou (None, 4)
+Duration (seconds): 5.07621
+  |   |   |   | ● |   |   | 
+  |   | ● |   | ■ |   |   | 
+  | ■ | ■ |   | ■ |   |   | 
+  | ● | ● |   | ■ | ● |   | 
+  | ● | ■ |   | ● | ■ |   | 
+● | ■ | ● | ● | ● | ■ | ● | 
+
+

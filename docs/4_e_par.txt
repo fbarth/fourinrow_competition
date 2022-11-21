@@ -1,0 +1,28 @@
+1. 
+Como é um abiente competitivo de soma zero, o algoritmo ideal para implementar um agente de Connect4 PopOut é o MinMax, já que ele analisa o maior ganho pegando valores máximos em jogadas dele e mínimos em jogadas do adversário, 
+sendo capaz de comparar observando vários turnos à frente. No caso do nosso jogador, 
+foi implementado uma poda alpha-beta para eliminar alguns ramos da árvore de busca que não valem a pena serem percorridos e, dessa forma, economizando tempo de processamento. A profundidade utilizada foi 5, demorando menos de 10 segundos para processar uma jogada. Por fim, como foi julgado pelo grupo que a avaliação de um tabuleiro não muda do Connect4 para o Connect4 PopOut, a função de utilidade utilizada foi bem semelhante ao BarthPlayer, mudando apenas alguns pesos das variáveis. A lógica, no fim, é a mesma.
+
+2. 
+A principal e única base de conhecimento de um jogador de Connect4 PopOut é o próprio ambiente, 
+onde estão suas peças e as do adversário. A tomada de decisão acontece ao avaliar todos os estados de profundidade 0 a partir, 
+exatamente, do ambiente que aquele caminho resultou. Dessa forma, basta escolher o caminho em que o ganho do adversário é minimizado 
+e o do jogador é maximizado e, dessa forma, escolher a ação que resultou num melhor ambiente futuro.
+
+3.
+A expectativa é de que seja um jogador razoável mas que, provavelmente, 
+não irá desempenhar tão bem na competição pelo fato de que não tem a opção de tirar peças. 
+Dessa forma, por ter seus movimentos limitados em relação a outros jogadores é bem provável que ele perca contra estes. 
+Executamos o teste contra o jogador aleatório e os resultados foram satisfatórios.
+
+4. 
+Além do próprio BarthPlayer do Connect4, uma grande referência para o projeto foi um artigo do algoritmo MinMax para o jogo Connect4
+(https://pdfs.semanticscholar.org/f323/3fa36a5026b42c7f331a5c98e66aad9d3e8c.pdf), principalmente para entender 
+o caminho de uma árvore de busca no jogo de Liga 4.
+
+5.
+Já que o jogador de Connect4 PopOut possui mais movimentações possíveis, é lógico pensar que a árvore de busca fica mais larga, 
+no entanto não existem diferenças na função de avaliação principalmente pelo fato de que avaliar um tabuleiro não deve ter regras diferentes 
+sendo que os jogos são iguais (tirando as movimentações do jogador). O objetivo é o mesmo, situações ganhadoras ou perdedoras são as mesmas e, 
+cabe ao algoritmo Min-Max retornar a ação em que a avaliação é maior no estado final do tabuleiro. Dessa forma, é bem possível utilizar um jogador implementado para PopOut em um jogo normal, 
+apenas apagando os sucessores que retiram uma peça e adaptando o jogo para recebe ruma lista na ação, ao invés de apenas uma coluna. Com essas duas mudanças acreditamos que o jogo flui normalmente.
